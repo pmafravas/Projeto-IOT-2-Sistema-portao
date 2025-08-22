@@ -1,4 +1,5 @@
 #include <Arduino.h>
+#include <WifiLocal.h>
 
 // put function declarations here:
 
